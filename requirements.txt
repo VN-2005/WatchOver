@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+openai
+geopy
+pydeck
+google-generativeai
+python-dotenv
+pymongo
+langchain
+langchain-google-genai
+transformers
+torch
