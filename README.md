@@ -54,29 +54,6 @@ The platform is designed to empower dispatchers and responders with tools to mak
 
 ---
 
-## Folder Structure
-```
-project/
-├── app.py                        # Main entry point
-├── tabs/
-│   ├── dispatcher_dashboard/
-│   │   ├── dispatcher_dashboard.py  # Dashboard logic
-│   │   ├── model_helper.py         # AI model initialization and response generation
-│   │   ├── grading.py              # Logic for grading user responses
-│   │   ├── db_helper.py            # MongoDB interaction
-├── data/
-│   ├── chat_logs/                 # Stores chat logs
-│   ├── scenarios/                 # Predefined scenario templates
-├── static/
-│   ├── images/                    # Branding images
-│   ├── css/                       # Custom stylesheets
-├── .env.local                     # Environment variables
-├── README.md                      # Project documentation
-├── requirements.txt               # Python dependencies
-```
-
----
-
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
